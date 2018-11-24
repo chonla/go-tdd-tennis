@@ -1,0 +1,24 @@
+mode: set
+github.com/chonla/go-tdd/tennis/scorer.go:11.47,14.2 2 1
+github.com/chonla/go-tdd/tennis/scorer.go:16.33,21.2 4 1
+github.com/chonla/go-tdd/tennis/scorer.go:23.40,25.2 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:27.78,29.44 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:32.2,32.14 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:29.44,31.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:35.77,37.2 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:39.37,40.11 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:43.2,43.40 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:47.2,47.39 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:52.2,52.25 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:40.11,42.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:43.40,46.3 2 1
+github.com/chonla/go-tdd/tennis/scorer.go:47.39,49.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:49.8,51.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:55.37,56.11 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:59.2,59.40 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:63.2,63.39 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:68.2,68.25 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:56.11,58.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:59.40,62.3 2 1
+github.com/chonla/go-tdd/tennis/scorer.go:63.39,65.3 1 1
+github.com/chonla/go-tdd/tennis/scorer.go:65.8,67.3 1 1
