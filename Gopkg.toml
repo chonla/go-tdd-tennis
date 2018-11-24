@@ -24,11 +24,6 @@
 #   go-tests = true
 #   unused-packages = true
 
-
-[[constraint]]
-  name = "github.com/kr/pretty"
-  version = "0.1.0"
-
 [prune]
   go-tests = true
   unused-packages = true
